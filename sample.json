@@ -1,0 +1,12 @@
+{
+  "name": "홍길동",
+  "age": 31,
+  "tags": [
+    "python",
+    "json"
+  ],
+  "address": {
+    "city": "서울",
+    "zipcode": "06236"
+  }
+}
